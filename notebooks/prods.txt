@@ -1,0 +1,3 @@
+p1	tv	500000	Samsung
+p2	lap	1000000	Lg
+p3	iPhone	3000000	Apple
