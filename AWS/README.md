@@ -1,4 +1,5 @@
 Master AWS Data Engineering Syllabus
+
 ----------------------------------------------------​
 
 Module 1: AWS Data Engineering Introduction
